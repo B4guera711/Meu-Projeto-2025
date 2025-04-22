@@ -1,1 +1,4 @@
 Desafio Git para testar habilidades
+git add.
+git comit - m "mensagem do commit' 
+git push -u origin main 
